@@ -5,6 +5,6 @@ label start:
     maks "im happy"
     maks "asdkh"
     maks"KSJDKAJDKLAJDAJJKDJKLDJKLDSKJLDKLJDAKLJDAKLJDSKLJDSKLJDKJLDKLJS"
-
+    вывв
 
     return
